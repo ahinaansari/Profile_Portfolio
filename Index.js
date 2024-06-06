@@ -6,7 +6,7 @@ MenuBtn.addEventListener('click',function(e){
 })
 
 
-let typed = new typed(".auto-input",{
+let typed = new Typed(".auto-input",{
     strings: ['front-End Developer!', "Back-End Developer", "Freelancer" , " Social-Bloger" ],
     typeSpeed: 100,
     backSpeed: 100,
